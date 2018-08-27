@@ -1,4 +1,4 @@
-#Motivation for this document
+##Motivation for this document
 I've written this document because I want to be transparent and clear about what you can expect from me, and what I'll expect from you as we work together.  I'll also include some of my particularities, hangups and principles I work by so you have a better understanding of me as a person, and what is important to me.
 
 My intention is to give you a clear roadmap on how to have the best working relationship with me, as fast as possible. 
