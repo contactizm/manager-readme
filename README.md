@@ -19,7 +19,7 @@ I also tend to approach topics with a very unshaped idea of how to move them alo
 
 
 # My Expectations
-If you want to discuss anything, I'm at your service.  My preferred method for setting time together is that you ping me in slack to let me know the topic, then just find time on my calendar within the timeframe that works best for you and the topic.  If you have trouble finding time with me, let me know and I'll move things around.
+If you want to discuss anything, I'm at your service.  My preferred method for setting time together is that you ping me in slack to let me know the topic, then just find time on my calendar (use Amy/Andrew!) within the timeframe that works best for you and the topic.  If you have trouble finding time with me, let me know and I'll move things around.
 
 We're all doing the best work we can here, but sometimes we all make mistakes.  I expect you (and definitely me) to make mistakes, but my greatest expectation is that we learn quickly from our mistakes and put in place mechanisms (system mechanisms or mental frameworks)  to stop them happening again. 
 
