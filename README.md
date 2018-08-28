@@ -49,4 +49,4 @@ Feedback in the first 90 days about where you should point yourself and if you'r
 
 
 # Everything else ...
-I'm a completely open book, if I've left anything out of here just ask me or chat.  I'll happily discuss any topic with you.  If I'm not doing my job well enough in your eyes, PLEASE LET ME KNOW.  I crave your feedback so I can do better.
+I'm a completely open book, if I've left anything out of here just ask me.  I'll happily discuss any topic with you.  If I'm not doing my job well enough in your eyes, PLEASE LET ME KNOW.  I crave your feedback so I can do better.
