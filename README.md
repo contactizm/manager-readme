@@ -25,6 +25,8 @@ We're all doing the best work we can here, but sometimes we all make mistakes.  
 
 I really value flexibility and I imagine you do to.  Flexibility is most possible when we have a great understanding together, when we know our roles and responsibilities, and have great lines of communication.  I'll expect us to value those principles which will enable us to do great work and feel great about doing it.
 
+Feedback is the lifeblood of our team.  I will give you constructive and positive feedback as often as I can, and I would like you to do the same - with me and the rest of the team.  Delivering and receiving feedback isn't easy, but we'll do the work to make us all better at this truly important practice.
+
 # 1:1s
 1:1s are one of the most important parts of our relationship together.  By default, I want to meet with you for 1 hour per week.  The timing for that is up to you, some folks like early morning, some later in the afternoon, some early or late in the week.  1:1s are YOUR time so I will meet with you whenever suits you best.  I totally understand that sometimes you might be in the groove working and not want to meet, or you don't have anything to discuss.  I don't want to be dogmatic about us meeting and I respect your ability to manage time and meetings that are useful to you.  But, that being said, this is a such an important relationship to me that I encourage you to use the time.
 
@@ -47,4 +49,4 @@ Feedback in the first 90 days about where you should point yourself and if you'r
 
 
 # Everything else ...
-I'm a complete open book, if I've left anything out of here just ask me or chat.  I'll happily discuss any topic with you.  If I'm not doing my job well enough in your eyes, PLEASE LET ME KNOW.  I crave your feedback so I can do better.
+I'm a completely open book, if I've left anything out of here just ask me or chat.  I'll happily discuss any topic with you.  If I'm not doing my job well enough in your eyes, PLEASE LET ME KNOW.  I crave your feedback so I can do better.
