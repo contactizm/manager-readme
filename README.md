@@ -32,7 +32,7 @@ I'll create an agenda document for our 1:1s.  My expectation is that you drive a
 
 
 # Personality quirks
-I'm a soccer fiend, you'll know that in the first 10 seconds of meeting me.  I also tend to speak a lot in soccer analogies to make clear a point.  If that rubs you the wrong way, just let me know and I'll tone it down (seriously no offense will be taken).
+I'm a soccer fiend, you'll know that in the first 10 seconds of meeting me.  I also tend to speak a lot in soccer analogies to make clear a point.  If that rubs you the wrong way, just let me know and I'll tone it down (seriously no offense will be taken).  Conversely, if you too are a soccer fiend, I'll recognize that immediately and turn it up to 11!
 
 I can tell you that unfairness triggers me a bit.  If I feel like someone isn't being respected, or getting the short end of the stick, I get heated quickly.  I try very hard to maintain and manage a calm and thoughtful approach to these scenarios, but please do be aware that is a tendency of mine.
 
