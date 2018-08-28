@@ -12,7 +12,7 @@ At a high level, I'm responsible for the success of our tech team.  I'm responsi
 The thing I value most is forthright communication and collaboration.  There will be times when I don't have answers, when you don't have answers, and when your teammates don't have answers.  We will succeed when we are humble in our interactions with each other, and devoted enough to have challenging conversations.
 
 
-Sometimes (many times) I won't have the answers or a clue as to what your'e talking about.  Help me out, understand where my gaps in knowledge are and do your best to bring me up to speed.  I often dive into topics and need to get up to speed quickly along the way.
+Sometimes (many times) I won't have the answers or a clue as to what you're talking about.  Help me out, understand where my gaps in knowledge are and do your best to bring me up to speed.  I often dive into topics and need to get up to speed quickly along the way.
 
 
 I also tend to approach topics with a very unshaped idea of how to move them along, with some vague sense of what my ideas are, and I depend on our group communication to grok the nuance and move our discussion towards good solutions.  I understand this may be frustrating if your approach to discussion or collaboration is more structured.  If that's the case, please just let me know and I'll try as best I can to modify my approach so we can work more effectively together.
