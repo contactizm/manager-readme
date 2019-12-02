@@ -25,7 +25,7 @@ We're all doing the best work we can here, but sometimes we all make mistakes.  
 Feedback is the lifeblood of our team.  I will give you constructive and positive feedback as often as I can, and I would like you to do the same - with me and the rest of the team.  Delivering and receiving feedback isn't easy, but we'll do the work to make us all better at this truly important practice.
 
 # Email/slack/phone
-### My communication hierarchy is as follows - 
+### My communication hierarchy is as follows
 Emails I’ll typically respond to by the end of the day, although if my response needs to take time to develop, I might just acknowledge that I’m “working on it” and will give you a time frame to expect a more thorough response.
 
 Slack is a great way to communicate throughout the day for important but non-urgent topics.  I’ll monitor individual messages at least every hour (I won’t see any messages during my meetings), and you can expect responses with at most an hour delay, often more quickly.
