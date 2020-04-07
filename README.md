@@ -27,7 +27,7 @@ Slack is a great way to communicate throughout the day for important but non-urg
 If something is super urgent, find me and come talk - I don’t at all mind a tap on the shoulder or stopping in the hallway.  If you can’t find me and it’s super urgent, call me.
 
 # 1:1s
-I value these meetings as some of the most important time we’ll spend together.  Many of you will have different things you’d like to use this time for, and that’s great.  This time is for YOU.  We will cover career development and professional growth, short/long/medium term tactics, giving feedback both ways for you and me, discussions around how we might optimize our team working together - anything that is useful.
+I value these meetings as the most important time we’ll spend together.  Many of you will have different things you’d like to use this time for, and that’s great.  This time is for YOU.  We will cover career development and professional growth, short/long/medium term tactics, giving feedback both ways for you and me, discussions around how we might optimize our team working together - anything that is useful.
 
 By default, I will want to schedule 45 minutes with each report once a week.  If you ever need to skip this time or would like to reschedule, please do so freely.  I’d much rather reschedule than skip as I think this is such an important part of our working relationship.
 
