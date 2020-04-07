@@ -1,4 +1,4 @@
-# ReadMe ReadeMe
+# ReadMe readme
 Hello!  This document is meant to give you immediate insight into how I think about work, and hopefully speed up our process becoming fast partners who can move mountains and other large things.
 
 
@@ -17,7 +17,7 @@ The thing I value most is forthright communication and collaboration.  There wil
 Sometimes (many times) I won't have the answers or a clue as to what you're talking about.  Help me out, understand where my gaps in knowledge are and do your best to bring me up to speed.  I often dive into topics and need to get up to speed quickly along the way.
 
 
-# My Expectations
+# My expectations
 We're all doing the best work we can here, but sometimes we all make mistakes.  I expect you (and definitely me) to make mistakes, but my greatest expectation is that we learn quickly from our mistakes and put in place mechanisms (system mechanisms or mental frameworks)  to stop them happening again. 
 
 Feedback is the lifeblood of our team.  I will give you constructive and positive feedback as often as I can, and I would like you to do the same - with me and the rest of the team.  Delivering and receiving feedback isn't easy, but we'll do the work to make us all better at this truly important practice.
