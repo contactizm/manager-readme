@@ -1,5 +1,5 @@
 # ReadMe readme
-Hello!  This document is meant to give you immediate insight into how I think about work, and hopefully speed up our process becoming fast partners who can move mountains and other large things.
+Hello!  This document is meant to give you immediate insight into how I think about work, and hopefully speed up our process becoming fast partners who can move mountains and other large things. 🚀
 
 
 # My role
