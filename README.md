@@ -5,8 +5,6 @@ Hello!  This document is meant to give you immediate insight into how I think ab
 # My role
 My role is to support and grow the team, understand our long term goals and the idiosyncrasies of our development challenges, and help implement systems of operating that guide us to succeed in producing exceptional products.  Throughout our time together, I hope for all of us to grow as professionals, collaborators and product developers.  I’ll learn from you, you will learn from me and you’ll learn from each other.  
 
-While each of you individually work deep in the codebase, impacting the mechanisms of our technology, I’ll be focusing on supporting and impacting the team, how you all fit together, and how we fit into the organization as a whole.
-
 Beyond that, I’ll aim to coach you as individuals to become stronger professionals and support the initiatives you want to get done.  I’ve spent a number of years in the early stages of tech companies navigating the often opposing forces of priority, financial support, product development and product/market fit, team collaboration, process & systems development, individual interest and working with cross-functional team members.  These are difficult areas to navigate - and that doesn’t even include the immense technical challenges of the products we’re building.  I’m here to impart whatever experience and knowledge I can in all of these areas to you.  When I can’t help you myself, I’ll help point you to someone I think is perfect to build a relationship with to learn that thing.
 
 
