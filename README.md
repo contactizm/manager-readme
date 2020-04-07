@@ -28,7 +28,7 @@ Emails I’ll typically respond to by the end of the day, although if my respons
 
 Slack is a great way to communicate throughout the day for important but non-urgent topics.  I’ll monitor individual messages at least every hour (I won’t see any messages during my meetings), and you can expect responses with at most an hour delay, often more quickly.
 
-If something is super urgent, find me and come talk - I don’t at all mind a tap on the shoulder or stopping in the hallway.  If you can’t find me and it’s super urgent, call me at 864-680-7122.
+If something is super urgent, find me and come talk - I don’t at all mind a tap on the shoulder or stopping in the hallway.  If you can’t find me and it’s super urgent, call me.
 
 # 1:1s
 I value these meetings as some of the most important time we’ll spend together.  Many of you will have different things you’d like to use this time for, and that’s great.  This time is for YOU.  We will cover career development and professional growth, short/long/medium term tactics, giving feedback both ways for you and me, discussions around how we might optimize our team working together - anything that is useful.
