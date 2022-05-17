@@ -1,9 +1,9 @@
 # ReadMe readme
-Hello!  This document is meant to give you immediate insight into how I think about work, and hopefully speed up our process becoming fast partners who can move mountains and other large things. 🚀
+Hello!  This document is meant to give you immediate insight into how I think about work, and hopefully speed up our process becoming fast partners who can move mountains and other large things together.  Think of this as a user manual or simply documentation for Joey, who is me. 
 
 
 # My role
-My role is to support and grow the team, understand our long term goals and the idiosyncrasies of our development challenges, empower product developers with all of the information and context to do great work, and help implement systems of operating that guide us to succeed in producing exceptional products.  Throughout our time together, I hope for all of us to grow as professionals, collaborators and product developers.  I’ll learn from you, you will learn from me and you’ll learn from each other.
+I think about the Nobis *Product* as the unique medical services we offer, and the underlying technology that supports the implementation of those services.   The *product* is both individual pieces and the whole experience, to different parties at once.  My role is to build and support a *Product Development* team that leads the way in what the Nobis product is and how it develops.  
 
 
 # What do I value most?
