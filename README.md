@@ -3,7 +3,7 @@ Hello!  This document is meant to give you immediate insight into how I think ab
 
 
 # My role
-I think about the Nobis *Product* as the unique medical services we offer, and the underlying technology that supports the implementation of those services.   The *product* is both individual pieces and the whole experience, to different parties at once.  My role is to build and support a *Product Development* team that leads the way in what the Nobis product is and how it develops.  
+I think about the myLaurel *Product* as the unique medical services we offer, and the underlying technology that supports the implementation of those services.   The *product* is both individual pieces and the whole experience, to different parties at once.  My role is to build and support a *Product Development* team that leads the way in what the myLaurel product is and how it develops.  
 
 
 # What do I value most?
